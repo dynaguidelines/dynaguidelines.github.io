@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - LS-DYNA Guidelines</title>
+        <link>https://dynaguidelines.github.io/posts/</link>
+        <description>所有文章 | LS-DYNA Guidelines</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>heige.pcloud@outlook.com (wang)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (wang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Feb 2022 16:02:04 &#43;0800</lastBuildDate><atom:link href="https://dynaguidelines.github.io/posts/" rel="self" type="application/rss+xml" /></channel>
+</rss>
